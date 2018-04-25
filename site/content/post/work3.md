@@ -1,12 +1,11 @@
-+++
-image = "img/portfolio/bridge1.jpg"
-showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Another Awesome Post"
-categories = [ "travel" ]
-draft = false
-weight = 2
-+++
+---
+title: Another Awesome Post
+date: '2016-11-05T19:44:32+05:30'
+image: img/portfolio/bridge1.jpg
+draft: false
+showonlyimage: false
+weight: '-1'
+---
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 <!--more-->
