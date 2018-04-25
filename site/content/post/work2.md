@@ -1,10 +1,18 @@
 ---
 title: This is a Standard Post
-date: '2016-11-05T19:41:01+05:30'
+date: '2016-11-24T15:11:00+01:00'
 image: img/portfolio/logs1.jpg
+categories:
+  - Game 2
+tags:
+  - Heyo
+topics:
+  - Derp
+keywords:
+  - Poop
 draft: false
 showonlyimage: false
-weight: '10'
+weight: '1'
 ---
 
 This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
