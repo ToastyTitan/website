@@ -1,6 +1,6 @@
 ---
 title: Another Awesome Post
-date: '2016-11-05T19:44:32+05:30'
+date: '2016-11-12T15:14:00+01:00'
 image: img/portfolio/bridge1.jpg
 categories:
   - Game
