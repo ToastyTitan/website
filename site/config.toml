@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Nederburg"
+title = "Toasty Titan"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,6 +12,8 @@ paginate = 5 #frontpage pagination
 [params]
   slogan = "Pangolins are awesome"
   description = "The official website of Toasty Titan" # meta description
+  author = ""
+  authorLink = ""
   bio = [
     "Words n stuff"
   ]

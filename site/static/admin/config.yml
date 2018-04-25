@@ -15,6 +15,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Category", name: "categories", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Topic", name: "topics", widget: "list"}
+      - {label: "Key words", name: "keywords", widget: "list"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Show only image", name: "showonlyimage", widget: "boolean"}
       - {label: "Weight", name: "weight", widget: "number"}
