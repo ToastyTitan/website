@@ -32,10 +32,10 @@
 							{{ .Site.Params.author | default "" }}
 							{{ end }}
 						</span>
+						<span> / </span>
 						{{ end }}
 
 						{{ range .Params.categories }}
-						<span> / </span>
 						<span class="category">
 							<a href="/categories{{ . | relURL }}">{{ . }}</a>
 						</span>
