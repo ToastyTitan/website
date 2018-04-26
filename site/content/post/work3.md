@@ -3,16 +3,16 @@ title: Another Awesome Post
 date: '2016-11-12T15:14:00+01:00'
 image: img/portfolio/bridge1.jpg
 categories:
-  - Game
+  - Neon Nemesis
 tags:
-  - BridgeMcBridgeface
+  - Development
 topics:
   - Stuff
 keywords:
-  - Poop
-draft: false
+  - Neon Nemesis
+  - Toasty Titan
+draft: true
 showonlyimage: false
-weight: '1'
 ---
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 
