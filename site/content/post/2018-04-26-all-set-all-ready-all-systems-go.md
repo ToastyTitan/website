@@ -20,7 +20,9 @@ For the past few weeks, the team has been busy moving into our beautiful basemen
 
 It's been full steam ahead and the team is a blast to work with. We might all be students but the focus with which we work gives me a feeling of working in a start-up rather than a university group assignment. Neon Nemesis is now taking form, with gameplay features, art or sounds being added every single day.
 
-## This week. 
+![](/img/img_0031_lowres.jpg)
+
+## This week.
 
 The past week has mostly been about getting the visuals that Patrik and Petrut has been working on into the game. Adam has been hard at work on the traps and some changes to how we handle powerups under the hood. Marcus, Anna, and Anton have been researching player movement, level design and lighting, respectively. Alex has been setting up this nifty web site for the team, allowing us to communicate with people outside of the studio! (Hello, we are doing just fine, we promise!)    
 
