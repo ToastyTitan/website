@@ -20,7 +20,7 @@ For the past few weeks, the team has been busy moving into our beautiful basemen
 
 It's been full steam ahead and the team is a blast to work with. We might all be students but the focus with which we work gives me a feeling of working in a start-up rather than a university group assignment. Neon Nemesis is now taking form, with gameplay features, art or sounds being added every single day.
 
-![null](/img/img_0031.jpg)
+![null](/img/img_0031_lowres.jpg)
 
 ## This week. 
 
