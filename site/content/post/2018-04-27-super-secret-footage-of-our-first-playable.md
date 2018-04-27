@@ -12,7 +12,7 @@ keywords:
   - development
   - neon nemesis
   - ''
-draft: true
+draft: false
 showonlyimage: true
 ---
 ## Super Secret Footage of our first "playable" stage!
