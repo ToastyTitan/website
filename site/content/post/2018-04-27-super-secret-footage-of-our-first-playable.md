@@ -4,8 +4,14 @@ date: '2018-04-27T11:21:19+02:00'
 image: /img/firstplayablescreenshot.png
 categories:
   - Neon Nemesis
+tags:
+  - Neon Nemesis
+topics:
+  - Neon Nemesis
 keywords:
   - development
+  - neon nemesis
+  - ''
 draft: true
 showonlyimage: true
 ---
